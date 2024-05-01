@@ -1,0 +1,10 @@
+eel
+whitenoise
+uvicorn
+psycopg2
+django
+asyncpg
+asgiref
+aioredis
+redis
+environs
